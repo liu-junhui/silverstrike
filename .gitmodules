@@ -1,0 +1,3 @@
+[submodule "production-project"]
+	path = production-project
+	url = https://github.com/agstrike/production-project.git
